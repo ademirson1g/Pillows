@@ -1,0 +1,293 @@
+#prvi{
+    height: 40px;
+    width: 100%;
+    background-color: aliceblue ;
+}
+
+#prvatabela{
+    border: 0px solid black;
+    
+}
+#prvitd{
+ width:280px;
+}
+
+#drugitd{
+ width:930px;
+}
+
+#drugadrugi{
+    width: 150px;
+}
+
+#drugaprvi{
+    width: 230px;
+}
+
+#razmaktd{
+    width: 270px;
+}
+#lijevitd{
+   
+    margin-left: 70px;
+}
+
+#centrirana{
+    border: 0px solid black;
+    margin-left: 70px;
+   
+}
+#trecatbl{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#trecaprva{
+    width: 150px;
+}
+
+#trecadruga{
+    width: 150px;
+}
+
+#trecatreca{
+    width: 150px;
+}
+#trecacetvrta{
+    width: 150px;
+}
+
+p1{
+    color: #191970;
+    font-family: 'DM Sans', sans-serif;
+    font-size: 13;
+}
+p2{
+    color: #191970;
+    font-family: 'DM Sans', sans-serif;
+    font-weight: bold;
+    font-size: 13;
+}
+p4{
+    color: #191970;
+    font-family: 'DM Sans', sans-serif;
+    font-weight: bold;
+    font-size: 13;
+}
+p3{
+    color: #191970;
+    font-family: 'DM Sans', sans-serif;
+    font-weight: bold;
+    font-size: 12;
+}
+p5{
+    color: red;
+    font-family: 'DM Sans', sans-serif;
+    font-weight: bold;
+    font-size: 12;
+    margin-left: 30px;
+}
+p6{
+    color: #191970;
+    font-family: 'DM Sans', sans-serif;
+    font-weight: bold;
+    font-size: 12;
+     text-decoration: line-through;
+}
+ 
+text1{
+  position: absolute;
+    top: 250px;
+    left: 70px;
+    color: #191970;
+    font-family: 'DM Sans', sans-serif;
+    font-weight: bold;
+    font-size: 40;
+}
+text2{
+  position: absolute;
+    top: 310px;
+    left: 70px;
+    color: #406C93;
+    font-family: 'DM Sans', sans-serif;
+    font-size: 18;
+}
+
+text3{
+  position: absolute;
+    top: 350px;
+    left: 70px;
+    color: #122230;
+    font-family: 'DM Sans', sans-serif;
+    font-size: 13;
+}
+text4{
+    font-style: italic;
+    color: #406C93;
+    font-family: 'DM Sans', sans-serif;
+    font-size: 15;
+    font-weight: bold;
+}
+text5{
+    color: #191970;
+    font-family: 'DM Sans', sans-serif;
+    font-weight: bold;
+    font-size: 35;
+}
+text6{
+    margin-left: 30px;
+    color: silver;
+    font-family: 'DM Sans', sans-serif;
+    font-size: 11;
+    margin-top: 10px;
+}
+text7{
+    margin-left: 30px;
+    color: #122230;
+    font-family: 'DM Sans', sans-serif;
+    font-size: 11;
+}
+text9{
+  position: absolute;
+    top: 1500px;
+    left: 70px;
+    color: #406C93;
+    font-family: 'DM Sans', sans-serif;
+    font-size: 16;
+}
+
+text10{
+  position: absolute;
+    color: #191970;
+    top: 1550px;
+    left: 70px;
+    font-weight: bold;
+    font-family: 'DM Sans', sans-serif;
+    font-size: 20;
+}
+text11{
+  position: absolute;
+    color: #191970;
+    top: 1730px;
+    left: 230px;
+    font-weight: bold;
+    font-family: 'DM Sans', sans-serif;
+    font-size: 20;
+}
+text12{
+  position: absolute;
+    color: #191970;
+    top: 1760px;
+    left: 230px;
+    text-decoration: underline;
+    font-weight: bold;
+    font-family: 'DM Sans', sans-serif;
+    font-size: 13;
+}
+text13{
+  position: absolute;
+    color: #191970;
+    top: 1730px;
+    left: 560px;
+    font-weight: bold;
+    font-family: 'DM Sans', sans-serif;
+    font-size: 20;
+}
+text14{
+  position: absolute;
+    color: #191970;
+    top: 1780px;
+    left: 560px;
+    text-decoration: underline;
+    font-weight: bold;
+    font-family: 'DM Sans', sans-serif;
+    font-size: 13;
+}
+text15{
+  position: absolute;
+    color: #191970;
+    top: 1730px;
+    left: 880px;
+    font-weight: bold;
+    font-family: 'DM Sans', sans-serif;
+    font-size: 20;
+}
+text16{
+  position: absolute;
+    color: #191970;
+    top: 1755px;
+    left: 880px;
+    text-decoration: underline;
+    font-weight: bold;
+    font-family: 'DM Sans', sans-serif;
+    font-size: 13;
+}
+#prvibutton{
+    position: absolute;
+    top: 450px;
+    left: 70px;
+     height: 50px;
+   color: #406C93;
+    font-family: 'DM Sans', sans-serif;
+    font-size: 13;
+    border-color:#406C93; 
+    background-color: Transparent;
+}
+#drugibutton{
+    position: absolute;
+    top: 450px;
+    left: 250px;
+    height: 50px;
+    color: #406C93;
+    font-family: 'DM Sans', sans-serif;
+    font-size: 13;
+    border-color:#406C93; 
+    background-color: Transparent;
+}
+#trecibutton{
+    margin-top: 30px;
+    height: 50px;
+    color: #406C93;
+    font-family: 'DM Sans', sans-serif;
+    font-size: 13;
+    border-color:#406C93; 
+    background-color: Transparent;
+}
+#cetvrtibutton{
+    position: absolute;
+    top: 1600px;
+    left: 70px;
+    height: 50px;
+    width: 200px;
+    color: #406C93;
+    font-family: 'DM Sans', sans-serif;
+    font-size: 13;
+    border-color:#406C93; 
+    background-color: white;
+
+}
+#drugidio
+{
+    margin-top: 40px;
+}
+
+#cetvrtaprvi
+{  
+    width: 100px;
+    height: 100px;
+    margin-left: 20px;
+   
+}
+#cetvrtaprvi1
+{  
+    width: 200px;
+    height: 200px;
+    margin-left: 30px;
+   
+}
+#cetvrtatbl{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
